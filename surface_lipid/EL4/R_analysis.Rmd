@@ -41,6 +41,7 @@ for (i in seq(1, ncol(EL4_count_1), by=2)){
   data_list <- c(data_list,EL4_count_1[,c(i,i+1)],EL4_count_2[,c(i,i+1)])
 }
 count_df <- as.data.frame(data_list) %>% set_rownames(.,gsub("\\..*","", rownames(EL4_count_1)))
+write.csv(count_df,"count_table.csv")
 ```
 
 Process count data: Stats
