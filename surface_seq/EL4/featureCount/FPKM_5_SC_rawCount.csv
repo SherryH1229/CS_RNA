@@ -1,0 +1,6 @@
+"","snoRNA","miRNA","Mt_tRNA","snRNA","misc_RNA","rRNA","TEC","processed_transcript","lincRNA","protein_coding","unprocessed_pseudogene","Mt_rRNA","pseudogene","processed_pseudogene","transcribed_processed_pseudogene","IG_C_gene","TR_C_gene","antisense","sense_intronic","transcribed_unprocessed_pseudogene","polymorphic_pseudogene","unitary_pseudogene","scaRNA","sense_overlapping","TR_V_gene","ribozyme","sRNA","translated_unprocessed_pseudogene","IG_J_gene","IG_V_gene","IG_V_pseudogene","IG_LV_gene","TR_J_gene","TR_J_pseudogene","TR_D_gene","TR_V_pseudogene","3prime_overlapping_ncrna","macro_lncRNA","IG_D_gene","IG_D_pseudogene","IG_C_pseudogene"
+"EL4.Click.2",761,1256,21,814,178,211,286,130,284,5893,68,2,22,404,16,1,7,231,51,21,2,3,31,1,5,6,1,0,6,0,3,0,47,5,0,2,0,0,0,0,0
+"EL4.Click.1",304,504,22,373,65,78,261,100,191,4484,35,2,19,356,18,1,5,162,50,8,3,2,12,3,6,1,1,0,0,0,0,1,2,0,0,1,0,0,0,0,0
+"EL4.Tot.Click.1",372,452,22,496,93,120,95,46,83,4998,27,2,15,440,25,1,7,69,10,8,1,0,24,1,4,4,0,0,0,0,0,1,4,1,0,0,0,0,0,0,0
+"EL4.Tot.Click.2",376,394,22,423,60,117,87,49,71,5175,30,2,21,534,26,1,6,61,7,7,1,0,26,0,4,2,0,0,0,0,0,1,6,0,0,0,0,0,0,0,0
+"EL4.Tot.Click.3",352,323,22,401,53,97,80,40,65,4865,27,2,15,493,24,1,7,59,6,7,1,0,23,0,4,2,0,0,0,0,0,1,2,0,0,0,0,0,0,0,0

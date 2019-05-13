@@ -1,0 +1,85 @@
+"tracking_id","Gene_name","Biotype","GENENAME","log2FoldChange.x","log2FoldChange.y"
+"ENSMUSG00000000560","Gabra2","protein_coding","gamma-aminobutyric acid (GABA) A receptor, subunit alpha 2",5.84158444612423,7.43869827408108
+"ENSMUSG00000001496","Nkx2-1","protein_coding","NK2 homeobox 1",6.22903101680607,4.11746206113871
+"ENSMUSG00000004113","Cacna1b","protein_coding","calcium channel, voltage-dependent, N type, alpha 1B subunit",7.32271502966444,3.26577780926749
+"ENSMUSG00000005089","Slc1a2","protein_coding","solute carrier family 1 (glial high affinity glutamate transporter), member 2",4.2653823703818,4.06898214912741
+"ENSMUSG00000005534","Insr","protein_coding","insulin receptor",7.8185363202065,4.11234103659482
+"ENSMUSG00000015766","Eps8","protein_coding","epidermal growth factor receptor pathway substrate 8",6.4842119327868,4.52211805314882
+"ENSMUSG00000015829","Tnr","protein_coding","tenascin R",6.05243909167877,4.31222766818729
+"ENSMUSG00000015944","Gatsl2","protein_coding","GATS protein-like 2",3.47916409679362,3.37285139801775
+"ENSMUSG00000018581","Dnah11","protein_coding","dynein, axonemal, heavy chain 11",2.62777168461781,2.04396494690582
+"ENSMUSG00000018845","Unc45b","protein_coding","unc-45 myosin chaperone B",7.44926166856105,4.20599469410988
+"ENSMUSG00000019893","Ros1","protein_coding","Ros1 proto-oncogene",6.40498818526808,8.31248116221609
+"ENSMUSG00000019971","Cep290","protein_coding","centrosomal protein 290",6.48262138399521,6.07063991704704
+"ENSMUSG00000020044","Timp3","protein_coding","tissue inhibitor of metalloproteinase 3",6.47711547817103,5.85685034849434
+"ENSMUSG00000021071","Trim9","protein_coding","tripartite motif-containing 9",6.98877115372345,2.89908681101425
+"ENSMUSG00000021994","Wnt5a","protein_coding","wingless-type MMTV integration site family, member 5A",6.93402550499569,4.38048704858086
+"ENSMUSG00000022122","Ednrb","protein_coding","endothelin receptor type B",4.82583199881268,5.92344014404816
+"ENSMUSG00000022311","Csmd3","protein_coding","CUB and Sushi multiple domains 3",5.62169537551057,6.93662901456156
+"ENSMUSG00000025938","Slco5a1","protein_coding","solute carrier organic anion transporter family, member 5A1",7.58821624020717,4.69252299538972
+"ENSMUSG00000025983","Ccdc150","protein_coding","coiled-coil domain containing 150",4.1948047329674,2.90963917713971
+"ENSMUSG00000026321","Tnfrsf11a","protein_coding","tumor necrosis factor receptor superfamily, member 11a, NFKB activator",3.63605193088375,4.11743314116828
+"ENSMUSG00000026885","Ttll11","protein_coding","tubulin tyrosine ligase-like family, member 11",3.43875765443419,3.42917023106344
+"ENSMUSG00000026950","Neb","protein_coding","nebulin",4.90676371938245,4.79037051893095
+"ENSMUSG00000027200","Sema6d","protein_coding","sema domain, transmembrane domain (TM), and cytoplasmic domain, (semaphorin) 6D",5.71402666952426,2.87855467080076
+"ENSMUSG00000028176","Lrrc7","protein_coding","leucine rich repeat containing 7",4.21162447541371,4.84917442854947
+"ENSMUSG00000028289","Epha7","protein_coding","Eph receptor A7",5.71883654864019,3.04796962698133
+"ENSMUSG00000028634","Hivep3","protein_coding","human immunodeficiency virus type I enhancer binding protein 3",3.38874458348149,2.21508045249775
+"ENSMUSG00000028707","Dmbx1","protein_coding","diencephalon/mesencephalon homeobox 1",3.69863743180637,4.46397213767773
+"ENSMUSG00000029135","Fosl2","protein_coding","fos-like antigen 2",2.09360654078581,3.7159203319436
+"ENSMUSG00000029608","Rph3a","protein_coding","rabphilin 3A",6.00152537807412,5.07783183933568
+"ENSMUSG00000030029","Lrig1","protein_coding","leucine-rich repeats and immunoglobulin-like domains 1",3.6437990263977,4.62880083456855
+"ENSMUSG00000030465","Psd3","protein_coding","pleckstrin and Sec7 domain containing 3",4.94332945877128,3.37172772192004
+"ENSMUSG00000030945","Acsm2","protein_coding","acyl-CoA synthetase medium-chain family member 2",6.08606344546322,3.21163338891728
+"ENSMUSG00000031465","Angpt2","protein_coding","angiopoietin 2",2.20802154289663,3.25756657889235
+"ENSMUSG00000031789","Cngb1","protein_coding","cyclic nucleotide gated channel beta 1",5.67858256464121,2.77189111284587
+"ENSMUSG00000032186","Tmod2","protein_coding","tropomodulin 2",4.75421191267225,4.6169343544292
+"ENSMUSG00000032204","Aqp9","protein_coding","aquaporin 9",5.60142652834533,7.35090423465928
+"ENSMUSG00000032262","Elovl4","protein_coding","elongation of very long chain fatty acids (FEN1/Elo2, SUR4/Elo3, yeast)-like 4",3.64865353710142,7.99008159856689
+"ENSMUSG00000032826","Ank2","protein_coding","ankyrin 2, brain",5.10184292542366,5.31874134669866
+"ENSMUSG00000032875","Arhgef17","protein_coding","Rho guanine nucleotide exchange factor (GEF) 17",4.74148535654945,3.4476378181999
+"ENSMUSG00000033174","Mgll","protein_coding","monoglyceride lipase",4.02553530166063,2.31974727938772
+"ENSMUSG00000033849","B3galt2","protein_coding","UDP-Gal:betaGlcNAc beta 1,3-galactosyltransferase, polypeptide 2",2.10235334177525,3.43170835537647
+"ENSMUSG00000034485","Uaca","protein_coding","uveal autoantigen with coiled-coil domains and ankyrin repeats",6.23041287993535,3.74820995901358
+"ENSMUSG00000034730","Adgrb1","protein_coding","adhesion G protein-coupled receptor B1",7.5624161082896,5.32959286445706
+"ENSMUSG00000035576","L3mbtl1","protein_coding","L3MBTL1 histone methyl-lysine binding protein",4.38355670430003,4.51157421548242
+"ENSMUSG00000038060","Dlec1","protein_coding","deleted in lung and esophageal cancer 1",6.72574311340468,2.83132093948901
+"ENSMUSG00000038515","Grtp1","protein_coding","GH regulated TBC protein 1",4.14222911311229,4.36311988435678
+"ENSMUSG00000038528","BC021785","protein_coding","major facilitator superfamily domain containing 4B5",5.07183821999932,3.66509640047539
+"ENSMUSG00000039126","Prune2","protein_coding","prune homolog 2",5.38867980236239,5.02184385009378
+"ENSMUSG00000039529","Atp8b1","protein_coding","ATPase, class I, type 8B, member 1",6.40631997517947,6.17762611093238
+"ENSMUSG00000040724","Kcna2","protein_coding","potassium voltage-gated channel, shaker-related subfamily, member 2",4.77606671551638,3.75151338459805
+"ENSMUSG00000041482","Piezo2","protein_coding","piezo-type mechanosensitive ion channel component 2",6.76752386454694,4.94703692383985
+"ENSMUSG00000042286","Stab1","protein_coding","stabilin 1",4.07406733821061,2.57546429232348
+"ENSMUSG00000043286","Pnpla1","protein_coding","patatin-like phospholipase domain containing 1",3.84654057925071,5.18293300492252
+"ENSMUSG00000045672","Col27a1","protein_coding","collagen, type XXVII, alpha 1",6.0123051771975,3.15056799149098
+"ENSMUSG00000046743","Fat4","protein_coding","FAT atypical cadherin 4",3.67664303263824,5.01129601624622
+"ENSMUSG00000049252","Lrp1b","protein_coding","low density lipoprotein-related protein 1B (deleted in tumors)",5.61773678297948,4.08772333482006
+"ENSMUSG00000051067","Lingo3","protein_coding","leucine rich repeat and Ig domain containing 3",5.70196195244419,5.35087588509743
+"ENSMUSG00000051113","Fam71e1","protein_coding","family with sequence similarity 71, member E1",6.17401020849556,4.08103088952701
+"ENSMUSG00000051323","Pcdh19","protein_coding","protocadherin 19",6.54764456628578,4.38091314288812
+"ENSMUSG00000051747","Ttn","protein_coding","titin",2.48401131856131,2.57330100763653
+"ENSMUSG00000052387","Trpm3","protein_coding","transient receptor potential cation channel, subfamily M, member 3",6.62828648541409,2.61926904545974
+"ENSMUSG00000052613","Pcdh15","protein_coding","protocadherin 15",5.42737025686565,4.9983485427053
+"ENSMUSG00000053580","Tanc2","protein_coding","tetratricopeptide repeat, ankyrin repeat and coiled-coil containing 2",4.43675936133835,6.95020951817204
+"ENSMUSG00000055415","Atp10b","protein_coding","ATPase, class V, type 10B",7.25701816617543,4.53637760478081
+"ENSMUSG00000055761","Nkain3","protein_coding","Na+/K+ transporting ATPase interacting 3",7.35964883993824,6.68371642701486
+"ENSMUSG00000055866","Per2","protein_coding","period circadian clock 2",3.40535305523273,4.50104384660293
+"ENSMUSG00000056648","Hoxb8","protein_coding","homeobox B8",6.23041287993535,6.18601076743315
+"ENSMUSG00000058670","4932411N23Rik","protein_coding","RIKEN cDNA 4932411N23 gene",3.46530384422871,4.36713827518575
+"ENSMUSG00000059326","Csf2ra","protein_coding","colony stimulating factor 2 receptor, alpha, low-affinity (granulocyte-macrophage)",4.71496020871875,4.74881125648985
+"ENSMUSG00000061462","Obscn","protein_coding","obscurin, cytoskeletal calmodulin and titin-interacting RhoGEF",3.52172046725426,2.62077114988723
+"ENSMUSG00000062312","Erbb2","protein_coding","erb-b2 receptor tyrosine kinase 2",6.13907157285067,3.71752959764097
+"ENSMUSG00000064246","Chil1","protein_coding","chitinase-like 1",5.28944904738824,5.53596791260014
+"ENSMUSG00000066392","Nrxn3","protein_coding","neurexin III",6.88447063387463,3.2124430635199
+"ENSMUSG00000066842","Hmcn1","protein_coding","hemicentin 1",4.66369225719133,3.02478510245059
+"ENSMUSG00000068457","Uty","protein_coding","ubiquitously transcribed tetratricopeptide repeat gene, Y chromosome",5.72079923702844,6.34714428762946
+"ENSMUSG00000068740","Celsr2","protein_coding","cadherin, EGF LAG seven-pass G-type receptor 2",4.65541873247884,4.77572682922364
+"ENSMUSG00000071489","Ptgdr","protein_coding","prostaglandin D receptor",4.7104780560568,5.20555822791666
+"ENSMUSG00000072683","Gm7457","processed_transcript","predicted gene 7457",2.85482300520908,3.08908933254989
+"ENSMUSG00000078907","Fam186b","protein_coding","family with sequence similarity 186, member B",6.82092780945384,3.47810719459869
+"ENSMUSG00000079056","Kcnip3","protein_coding","Kv channel interacting protein 3, calsenilin",5.14325422766586,4.09693359225686
+"ENSMUSG00000079173","Zan","protein_coding","zonadhesin",6.32288736223581,3.48078270525447
+"ENSMUSG00000085747","Slc13a2os","antisense","solute carrier family 13 (sodium-dependent dicarboxylate transporter), member 2, opposite strand",6.62223897882244,3.75243763860217
+"ENSMUSG00000099176","Mir6238","miRNA","microRNA 6238",7.3143818602917,5.06804564002434
+"ENSMUSG00000101969","Gm20125","lincRNA","predicted gene, 20125",4.45653457891372,6.1099929986655

@@ -1,0 +1,27 @@
+"tracking_id","Gene_name","Biotype","GENENAME","log2FoldChange.x","log2FoldChange.y"
+"ENSMUSG00000015944","Gatsl2","protein_coding","GATS protein-like 2",3.47916409679362,4.43103658941474
+"ENSMUSG00000018819","Lsp1","protein_coding","lymphocyte specific 1",4.22838985446043,5.98813833996966
+"ENSMUSG00000020044","Timp3","protein_coding","tissue inhibitor of metalloproteinase 3",6.47711547817103,5.56332738929896
+"ENSMUSG00000020053","Igf1","protein_coding","insulin-like growth factor 1",3.15350586932559,4.01877474487653
+"ENSMUSG00000022095","Fam160b2","protein_coding","family with sequence similarity 160, member B2",2.14009482631846,2.75331818149925
+"ENSMUSG00000022311","Csmd3","protein_coding","CUB and Sushi multiple domains 3",5.62169537551057,5.4596339683256
+"ENSMUSG00000022419","Deptor","protein_coding","DEP domain containing MTOR-interacting protein",4.61086416287502,5.96150050860764
+"ENSMUSG00000022432","Smc1b","protein_coding","structural maintenance of chromosomes 1B",4.46913424165194,4.82970154404131
+"ENSMUSG00000027796","Smad9","protein_coding","SMAD family member 9",4.72130837941158,6.78123866562355
+"ENSMUSG00000032204","Aqp9","protein_coding","aquaporin 9",5.60142652834533,9.24809124637543
+"ENSMUSG00000032262","Elovl4","protein_coding","elongation of very long chain fatty acids (FEN1/Elo2, SUR4/Elo3, yeast)-like 4",3.64865353710142,6.98236004806857
+"ENSMUSG00000032525","Nktr","protein_coding","natural killer tumor recognition sequence",2.15061894199805,3.45661037279581
+"ENSMUSG00000032826","Ank2","protein_coding","ankyrin 2, brain",5.10184292542366,7.12443824463405
+"ENSMUSG00000032827","Ppp1r9a","protein_coding","protein phosphatase 1, regulatory (inhibitor) subunit 9A",3.4530400786717,5.07663582743067
+"ENSMUSG00000033788","Dysf","protein_coding","dysferlin",4.92708853897139,4.72249176957718
+"ENSMUSG00000034485","Uaca","protein_coding","uveal autoantigen with coiled-coil domains and ankyrin repeats",6.23041287993535,5.26104877030823
+"ENSMUSG00000034730","Adgrb1","protein_coding","adhesion G protein-coupled receptor B1",7.5624161082896,7.67334937619118
+"ENSMUSG00000035944","Ttc38","protein_coding","tetratricopeptide repeat domain 38",3.79101956288365,4.85063221403527
+"ENSMUSG00000041540","Sox5","protein_coding","SRY (sex determining region Y)-box 5",6.47506439307092,5.66426053341956
+"ENSMUSG00000049281","Scn3b","protein_coding","sodium channel, voltage-gated, type III, beta",3.20301329638339,6.55065331796678
+"ENSMUSG00000051977","Prdm9","protein_coding","PR domain containing 9",2.77857479779384,2.67423590135947
+"ENSMUSG00000053580","Tanc2","protein_coding","tetratricopeptide repeat, ankyrin repeat and coiled-coil containing 2",4.43675936133835,6.2007761328295
+"ENSMUSG00000058145","Adamts17","protein_coding","a disintegrin-like and metallopeptidase (reprolysin type) with thrombospondin type 1 motif, 17",4.47079421580258,4.81811187970884
+"ENSMUSG00000058670","4932411N23Rik","protein_coding","RIKEN cDNA 4932411N23 gene",3.46530384422871,6.49837858709538
+"ENSMUSG00000079470","Utp14b","protein_coding","UTP14B small subunit processome component",2.04240223908287,5.27770354562924
+"ENSMUSG00000102887","Gm10857","lincRNA","predicted gene 10857",6.55787169536218,5.35423789657621

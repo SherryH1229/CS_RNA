@@ -1,0 +1,14 @@
+"0","z <- plotPCA(rlog(dds_tot))+geom_label_repel(aes(label = name))+
+  theme(text = element_text(size = 18,face=""bold""),
+        axis.text.x = element_text(size = 18,face=""bold""),
+        axis.text.y = element_text(size = 18,face=""bold""),
+        plot.title = element_text(size=15,face=""bold""))+
+  ggtitle(""PCA of all the Surface_seq Samples"")
+"
+"2","the rlog assumes that data is close to a negative binomial distribution, an assumption
+which is sometimes not compatible with datasets where many genes have many zero counts
+despite a few very large counts.
+In this data, for 22.1% of genes with a sum of normalized counts above 100, it was the case 
+that a single sample's normalized count made up more than 90% of the sum over all samples.
+the threshold for this warning is 10% of genes. See plotSparsity(dds) for a visualization of this.
+We recommend instead using the varianceStabilizingTransformation or shifted log (see vignette)."

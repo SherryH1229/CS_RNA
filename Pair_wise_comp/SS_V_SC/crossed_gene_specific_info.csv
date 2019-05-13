@@ -1,0 +1,22 @@
+"tracking_id","Gene_name","Biotype","GENENAME","log2FoldChange.x","log2FoldChange.y"
+"ENSMUSG00000000560","Gabra2","protein_coding","gamma-aminobutyric acid (GABA) A receptor, subunit alpha 2",5.84158444612423,7.24185426538169
+"ENSMUSG00000005089","Slc1a2","protein_coding","solute carrier family 1 (glial high affinity glutamate transporter), member 2",4.2653823703818,3.61043100566935
+"ENSMUSG00000019893","Ros1","protein_coding","Ros1 proto-oncogene",6.40498818526808,7.57477569730633
+"ENSMUSG00000019971","Cep290","protein_coding","centrosomal protein 290",6.48262138399521,5.50557166645579
+"ENSMUSG00000020044","Timp3","protein_coding","tissue inhibitor of metalloproteinase 3",6.47711547817103,5.89873108047441
+"ENSMUSG00000022311","Csmd3","protein_coding","CUB and Sushi multiple domains 3",5.62169537551057,6.46421134242669
+"ENSMUSG00000025938","Slco5a1","protein_coding","solute carrier organic anion transporter family, member 5A1",7.58821624020717,4.14800381050389
+"ENSMUSG00000027796","Smad9","protein_coding","SMAD family member 9",4.72130837941158,5.619962773744
+"ENSMUSG00000032204","Aqp9","protein_coding","aquaporin 9",5.60142652834533,8.57566502846254
+"ENSMUSG00000032262","Elovl4","protein_coding","elongation of very long chain fatty acids (FEN1/Elo2, SUR4/Elo3, yeast)-like 4",3.64865353710142,7.64045388603213
+"ENSMUSG00000032826","Ank2","protein_coding","ankyrin 2, brain",5.10184292542366,6.47744709367367
+"ENSMUSG00000032827","Ppp1r9a","protein_coding","protein phosphatase 1, regulatory (inhibitor) subunit 9A",3.4530400786717,4.31676640951972
+"ENSMUSG00000033788","Dysf","protein_coding","dysferlin",4.92708853897139,4.03988050383617
+"ENSMUSG00000034485","Uaca","protein_coding","uveal autoantigen with coiled-coil domains and ankyrin repeats",6.23041287993535,4.65891704058695
+"ENSMUSG00000034730","Adgrb1","protein_coding","adhesion G protein-coupled receptor B1",7.5624161082896,6.8212036060679
+"ENSMUSG00000035576","L3mbtl1","protein_coding","L3MBTL1 histone methyl-lysine binding protein",4.38355670430003,4.03849282718251
+"ENSMUSG00000041482","Piezo2","protein_coding","piezo-type mechanosensitive ion channel component 2",6.76752386454694,4.41271077013561
+"ENSMUSG00000053580","Tanc2","protein_coding","tetratricopeptide repeat, ankyrin repeat and coiled-coil containing 2",4.43675936133835,6.74984885753467
+"ENSMUSG00000055761","Nkain3","protein_coding","Na+/K+ transporting ATPase interacting 3",7.35964883993824,6.34807050286853
+"ENSMUSG00000085747","Slc13a2os","antisense","solute carrier family 13 (sodium-dependent dicarboxylate transporter), member 2, opposite strand",6.62223897882244,3.72867895184008
+"ENSMUSG00000101969","Gm20125","lincRNA","predicted gene, 20125",4.45653457891372,5.63422510274772
