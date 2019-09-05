@@ -199,6 +199,12 @@ dev.off()
     ##   2
 
 ``` r
+knitr::include_graphics("./plots/STHeatmap_2_0.01_select.png")
+```
+
+<img src="./plots/STHeatmap_2_0.01_select.png" width="500" />
+
+``` r
 # For sample pool with negative controls 
 # ha = columnAnnotation(foo = anno_text(c(rep("Sample",4),rep("Neg_ctrl",4),rep("Total",4)), location = 0.5, just = "center",
 #     gp = gpar(fill = rep(2:4, each = 4), col = "white", border = "black"),
@@ -234,6 +240,12 @@ ggsave("./plots/GO_ST_2_0.01_selected.png",dotplot(ego, split="ONTOLOGY") +
     ## wrong orderBy parameter; set to default `orderBy = "x"`
 
 ``` r
+knitr::include_graphics("./plots/GO_ST_2_0.01_selected.png")
+```
+
+<img src="./plots/GO_ST_2_0.01_selected.png" width="3000" />
+
+``` r
 res.ST_select <- res.ST.1_0.05[- grep("riboso", res.ST.1_0.05$GENENAME),]
 #Kegg on gene set of 1 and 0.05
 gene.uniport <- bitr(res.ST_select$Gene_name, fromType = "ENSEMBL",
@@ -251,7 +263,13 @@ eke <- enrichKEGG(gene = gene.uniport$UNIPROT, organism = "hsa", keyType ="unipr
 ggsave("./plots/KEGG_ST_2_0.01_selected.png",dotplot(eke)+
          theme(text = element_text(size=12),
                plot.title = element_text(size=15,face="bold"))+
-         ggtitle("KEGG Enrichment"),height= 4, width = 8)
+         ggtitle("KEGG Enrichment"),height= 4, width = 8) 
 ```
 
     ## wrong orderBy parameter; set to default `orderBy = "x"`
+
+``` r
+knitr::include_graphics("./plots/KEGG_ST_2_0.01_selected.png")
+```
+
+<img src="./plots/KEGG_ST_2_0.01_selected.png" width="2400" />
